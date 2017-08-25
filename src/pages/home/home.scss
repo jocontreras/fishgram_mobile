@@ -1,7 +1,11 @@
 page-home {
-
+    //background: url('../../img/background.jpg');
+    background: url('../assets/img/background.jpg') no-repeat fixed center;
+    background-size: cover;
 }
 
-ion-content {
-    background-image: url('/assets/img/background.jpg');
+.getstart {
+    background-image: url('../assets/img/background.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
 }
